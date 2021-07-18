@@ -11,3 +11,4 @@ django-environ
 markdown
 django-filter
 django_apscheduler
+pymysql
